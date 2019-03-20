@@ -1,0 +1,36 @@
+h1 {
+  color: #8B9DC3;
+}
+
+body {
+font-family: Lato;
+text-align: center;
+background-color: #e2e2e2;
+
+}
+
+h2 {
+  color: #8B9DC3;
+}
+
+body {
+font-family: Lato;
+text-align: center;
+background-color: #e2e2e2;
+
+}
+
+
+.container {
+    display: inline-block;
+    overflow: hidden;
+    position: absolute;
+    padding: 20px;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 80%;
+    max-width: 600px;
+    z-index: 9;
+}
